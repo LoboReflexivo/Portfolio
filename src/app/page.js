@@ -239,6 +239,7 @@ export default function Home() {
               do autodidactic programming.
             </p>
           </li>
+          <hr />
         </ul>
       </div>
       <div className="image-background"></div>
