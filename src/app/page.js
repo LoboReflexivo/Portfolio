@@ -49,10 +49,10 @@ export default function Home() {
       <div className="text" id="projects">
         <h2>Projects and skills</h2>
         <p className="description-paragraph">
-          While I don't have significant projects to showcase yet due to privacy
-          constraints, I warmly invite you to visit my GitHub and LinkedIn
-          profiles. There, you can find some of my projects and explore my
-          progress in web development.
+          While I don&apos;t have significant projects to showcase yet due to
+          privacy constraints, I warmly invite you to visit my GitHub and
+          LinkedIn profiles. There, you can find some of my projects and explore
+          my progress in web development.
         </p>
         <div className="skills-list">
           <div className="programming-tools">
@@ -153,29 +153,30 @@ export default function Home() {
                 <small>2023-2024</small>
               </p>
               <p className="description-paragraph">
-                Throughout the course, I've delved into a myriad of
+                Throughout the course, I&apos;ve delved into a myriad of
                 industry-standard tools, ranging from foundational languages
                 like HTML5 and CSS3 to advanced technologies such as React and
                 Node.js. These skills have been complemented by hands-on
                 experience with database management, enriching my understanding
-                of backend development. Moreover, I've honed soft skills such as
-                teamwork and problem-solving, ensuring a well-rounded skill set
-                for real-world projects.
+                of backend development. Moreover, I&apos;ve honed soft skills
+                such as teamwork and problem-solving, ensuring a well-rounded
+                skill set for real-world projects.
               </p>
             </li>
             <hr />
             <li className="list ">
               {" "}
               <b>
-                University of Málaga, Málaga - Spanish for foreigners' master
+                University of Málaga, Málaga - Spanish for foreigners&apos;
+                master
               </b>
               <p>
                 <small>2022-2023</small>
               </p>
               <p className="description-paragraph">
-                During my university master's program, I solidified my expertise
-                in applied linguistics for teaching Spanish to foreigners.
-                Within this program, I was able to delve deeper into
+                During my university master&apos;s program, I solidified my
+                expertise in applied linguistics for teaching Spanish to
+                foreigners. Within this program, I was able to delve deeper into
                 computational linguistics, which is why I am currently in the
                 technology sector.
               </p>
@@ -216,9 +217,9 @@ export default function Home() {
           <li className="list hobby">
             <h4>Video games</h4>
             <p className="description-paragraph">
-              Since I was a child I've played videogames, especially tactical
-              games like League of Legends or shooters like Counter-Strike or
-              Valorant.
+              Since I was a child I&apos;ve played videogames, especially
+              tactical games like League of Legends or shooters like
+              Counter-Strike or Valorant.
             </p>
           </li>
           <hr />
