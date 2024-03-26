@@ -202,7 +202,45 @@ export default function Home() {
         </div>
       </div>
       <div className="image-background"></div>
-
+      <div className="text" id="hobbies">
+        <h2>Hobbies</h2>
+        <ul className="hobby-container">
+          <li className="list hobby">
+            <h4>Languages and linguistic</h4>
+            <p className="description-paragraph">
+              The linguistic has turn into my hobby after that I finished my
+              degree at University of Salamanca.
+            </p>
+          </li>
+          <hr />
+          <li className="list hobby">
+            <h4>Video games</h4>
+            <p className="description-paragraph">
+              Since I was a child I've played videogames, especially tactical
+              games like League of Legends or shooters like Counter-Strike or
+              Valorant.
+            </p>
+          </li>
+          <hr />
+          <li className="list hobby">
+            <h4>Music</h4>
+            <p className="description-paragraph">
+              I love the music. I played piano when I was a teenager and
+              currently I love to go a concerts and festivals.
+            </p>
+          </li>
+          <hr />
+          <li className="list hobby">
+            <h4>Technology and programming</h4>
+            <p className="description-paragraph">
+              Always I had curiosity for the technology because of video games.
+              Also because of the computational linguistic I decided to start to
+              do autodidactic programming.
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div className="image-background"></div>
       <ButtonComponent />
     </div>
   );
